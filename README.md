@@ -1,6 +1,6 @@
 # Project 4: Shark Tank Machine Learning Model
 ## Authors: 
-Andrea Ceriati, Kathryn Lesh, Emily Sims, and Scott Zuckerbrow. 
+Scott Zuckerbrow, Andrea Ceriati, Kathryn Lesh, and Emily Sims. 
 
 # Overview
 Our team analyzed data from seasons 1 - 15 of Shark Tank. This is a popular TV show in the U.S. where entrepreneurs pitch their innovative ideas and products to a group of investors (referred to as 'sharks'). The goal of the pitch is to secure the funding needed to create a successful startup. Our project goal was to create a machine learning model that could predict whether a pitcher would secure a deal. 
